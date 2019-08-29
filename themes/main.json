@@ -306,6 +306,13 @@
         "foreground": "#52af3980"
       }
     },
+		{
+			"name": "Constants",
+			"scope": "constant",
+			"settings": {
+				"foreground": "#F09483E6"
+			}
+		},
     {
       "name": "Escape characters",
       "scope": "constant.character.escape",
