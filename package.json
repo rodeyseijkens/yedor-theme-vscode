@@ -1,22 +1,27 @@
 {
-    "name": "yedor",
-    "displayName": "Yedor",
-    "description": "Dark Theme based on Horizon",
-    "version": "0.0.2",
-    "author": "Rodey Seijkens <contact@rodey.nl> (http://rodey.nl)",
-    "engines": {
-        "vscode": "^1.37.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Yedor",
-                "uiTheme": "vs-dark",
-                "path": "./themes/main.json"
-            }
-        ]
-    }
+  "name": "yedor-theme-vscode",
+  "displayName": "Yedor",
+  "description": "Dark Theme based on Horizon",
+  "version": "0.0.2",
+  "author": "Rodey Seijkens <contact@rodey.nl> (http://rodey.nl)",
+  "publisher": "rodey",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rodeyseijkens/yedor-theme-vscode"
+  },
+  "engines": {
+    "vscode": "^1.37.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Yedor",
+        "uiTheme": "vs-dark",
+        "path": "./themes/main.json"
+      }
+    ]
+  }
 }
