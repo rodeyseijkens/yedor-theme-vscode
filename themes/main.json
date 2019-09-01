@@ -9,7 +9,7 @@
     "activityBarBadge.background": "#e95378",
     "activityBarBadge.foreground": "#06060c",
     "badge.background": "#2e303e",
-    "badge.foreground": "#d5d8da",
+    "badge.foreground": "#dad5d5",
     "breadcrumbPicker.background": "#232530",
     "button.background": "#2e303e",
     "contrastBorder": "#16161c",
@@ -18,7 +18,7 @@
     "diffEditor.removedTextBackground": "#f43e5c1a",
     "dropdown.background": "#232530",
     "dropdown.listBackground": "#2e303e",
-    "editor.background": "#1c1e26",
+    "editor.background": "#14151b",
     "editor.findMatchBackground": "#6c6f9380",
     "editor.findMatchHighlightBackground": "#6c6f934d",
     "editor.findRangeHighlightBackground": "#6c6f931a",
@@ -295,24 +295,39 @@
       "name": "Comments",
       "scope": "comment",
       "settings": {
-        "foreground": "#52af3980",
+        "foreground": "#52af3970",
         "fontStyle": "italic"
       }
     },
     {
-      "name": "jsDoc",
-      "scope": "storage.type.class.jsdoc,entity.name.type.instance.jsdoc,variable.other.jsdoc",
+      "name": "jsDoc type instance",
+      "scope": "entity.name.type.instance.jsdoc",
       "settings": {
-        "foreground": "#52af3980"
+        "foreground": "#b877db70"
       }
     },
-		{
-			"name": "Constants",
-			"scope": "constant",
-			"settings": {
-				"foreground": "#F09483E6"
-			}
-		},
+    {
+      "name": "jsDoc variable",
+      "scope": "variable.other.jsdoc",
+      "settings": {
+        "foreground": "#E9567870"
+      }
+    },
+    {
+      "name": "jsDoc Class",
+      "scope": "storage.type.class.jsdoc",
+      "settings": {
+        "foreground": "#FAB79570"
+      }
+    },
+
+    {
+      "name": "Constants",
+      "scope": "constant",
+      "settings": {
+        "foreground": "#F09483E6"
+      }
+    },
     {
       "name": "Escape characters",
       "scope": "constant.character.escape",
