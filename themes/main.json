@@ -55,6 +55,7 @@
     "editorOverviewRuler.warningForeground": "#27d79780",
     "editorRuler.foreground": "#8b8b8b4d",
     "editorSuggestWidget.highlightForeground": "#e95378",
+    "editorSuggestWidget.selectedBackground": "#e9537825",
     "editorWarning.foreground": "#27d797b3",
     "editorWidget.background": "#222222",
     "editorWidget.border": "#222222",
