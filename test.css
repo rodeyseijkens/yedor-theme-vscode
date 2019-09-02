@@ -1,0 +1,9 @@
+#item {
+  name: 10px;
+}
+
+
+#item > .inner > p {
+    background: url('./test');
+}
+

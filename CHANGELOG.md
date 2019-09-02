@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.0] - 2019-09-02
+
+### Added
+
+- Better CSS Color Styling
+
+<img src="https://i.imgur.com/yxDI8B6.png" alt="Updated CSS Stylinh">
+
 ## [1.0.2] - 2019-09-02
 
 ### Added

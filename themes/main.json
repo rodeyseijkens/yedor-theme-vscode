@@ -255,6 +255,39 @@
       }
     },
     {
+      "name": "CSS property names",
+      "scope": "support.type.property-name.css",
+      "settings": {
+        "foreground": "#E95678E6"
+      }
+    },
+    {
+      "name": "CSS source property names",
+      "scope": "entity.name.tag.css",
+      "settings": {
+        "foreground": "#B877DBE6"
+      }
+    },
+    {
+      "name": "CSS Other Units",
+      "scope": [
+        "keyword.other.unit.em.css",
+        "keyword.other.unit.rem.css",
+        "keyword.other.unit.px.css",
+        "keyword.other.unit.pt.css",
+        "keyword.other.unit.deg.css",
+        "keyword.other.unit.rad.css",
+        "keyword.other.unit.cm.css",
+        "keyword.other.unit.mm.css",
+        "keyword.other.unit.in.css",
+        "keyword.other.unit.pc.css",
+        "keyword.other.unit.percentage.css"
+      ],
+      "settings": {
+        "foreground": "#B877DBE6"
+      }
+    },
+    {
       "name": "Variable names",
       "scope": ["entity.name.variable", "variable"],
       "settings": {
@@ -395,13 +428,6 @@
       "scope": ["support.type.property-name", "meta.object-literal.key"],
       "settings": {
         "foreground": "#E95678E6"
-      }
-    },
-    {
-      "name": "CSS property names",
-      "scope": "support.type.property-name.css",
-      "settings": {
-        "foreground": "#BBBBBB"
       }
     },
     {
