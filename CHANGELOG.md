@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+- Complete overhaul of all colors, tweaked it to be more uniform
+- Bracket Pair Colorizer 2 recommendation in README
+
+### Added
+
+- Color Reference to README
+
 ## [1.1.0] - 2019-09-02
 
 ### Added
