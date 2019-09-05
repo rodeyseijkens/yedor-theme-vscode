@@ -39,7 +39,28 @@ Download this extension and add the following settings to your `settings.json` f
 <img src="https://i.imgur.com/xIZOjkO.png" alt="Bracket Pair Colorizer 2 preview">
 
 ```json
-"bracket-pair-colorizer-2.colors": ["#FAC29A", "#B877DB", "#25B0BC"],
+"bracket-pair-colorizer-2.colors": ["#FF9999", "#BB77DD", "#22BBBB"],
 ```
+
+## Color Reference
+
+### UI Colors
+
+|                            Color                            |
+| :---------------------------------------------------------: |
+| ![](https://via.placeholder.com/10/181818?text=+) `#181818` |
+| ![](https://via.placeholder.com/10/232323?text=+) `#232323` |
+| ![](https://via.placeholder.com/10/303030?text=+) `#303030` |
+| ![](https://via.placeholder.com/10/BBBBBB?text=+) `#BBBBBB` |
+| ![](https://via.placeholder.com/10/FFBB99?text=+) `#FFBB99` |
+| ![](https://via.placeholder.com/10/FF9999?text=+) `#FF9999` |
+| ![](https://via.placeholder.com/10/EE5577?text=+) `#EE5577` |
+| ![](https://via.placeholder.com/10/BB77DD?text=+) `#BB77DD` |
+| ![](https://via.placeholder.com/10/22BBBB?text=+) `#22BBBB` |
+| ![](https://via.placeholder.com/10/55AA33?text=+) `#55AA33` |
+| ![](https://via.placeholder.com/10/CC9900?text=+) `#CC9900` |
+| ![](https://via.placeholder.com/10/F43300?text=+) `#F43300` |
+| ![](https://via.placeholder.com/10/2255EE?text=+) `#2255EE` |
+
 
 [MIT](LICENSE) © [Rodey Seijkens](https://github.com/rodeyseijkens)
