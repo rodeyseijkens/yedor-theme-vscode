@@ -157,6 +157,14 @@
   },
   "tokenColors": [
     {
+      "name": "Default",
+      "scope": "source.js",
+      "settings": {
+        "foreground": "#BBBBBB",
+        "fontStyle": "normal"
+      }
+    },
+    {
       "name": "Comments",
       "scope": "comment",
       "settings": {
@@ -217,7 +225,7 @@
       "name": "Tags",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#EE5577",
+        "foreground": "#99BBFF",
         "fontStyle": "normal"
       }
     },
@@ -275,6 +283,20 @@
       }
     },
     {
+      "name": "CSS Variables",
+      "scope": "variable.argument.css",
+      "settings": {
+        "foreground": "#99BBFF"
+      }
+    },
+    {
+      "name": "CSS Meta Selector",
+      "scope": "meta.selector.css",
+      "settings": {
+        "foreground": "#99BBFF"
+      }
+    },
+    {
       "name": "CSS Other Units",
       "scope": [
         "keyword.other.unit.em.css",
@@ -290,7 +312,7 @@
         "keyword.other.unit.percentage.css"
       ],
       "settings": {
-        "foreground": "#BB77DD"
+        "foreground": "#99BBFF"
       }
     },
     {
@@ -459,10 +481,18 @@
       }
     },
     {
+      "name": "Class Component",
+      "scope": "support.class.component.js",
+      "settings": {
+        "foreground": "#99BBFF",
+        "fontStyle": "italic"
+      }
+    },
+    {
       "name": "Tag brackets",
       "scope": "punctuation.definition.tag",
       "settings": {
-        "foreground": "#EE5577",
+        "foreground": "#99BBFF",
         "fontStyle": "normal"
       }
     },

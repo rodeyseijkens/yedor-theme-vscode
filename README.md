@@ -2,7 +2,7 @@
     Yedor Theme
 </h1>
 
-<img src="https://i.imgur.com/naTsVAI.png" alt="Main preview">
+<img src="https://i.imgur.com/floVJEs.png" alt="Preview">
 
 ## Installation
 
@@ -36,7 +36,9 @@ Download this extension and add the following settings to your `settings.json` f
 
 ### Bracket Pair Colorizer 2
 
-<img src="https://i.imgur.com/xIZOjkO.png" alt="Bracket Pair Colorizer 2 preview">
+<img src="https://i.imgur.com/0BvcNo0.png" alt="Bracket Pair Colorizer 2 preview">
+
+Settings:
 
 ```json
 "bracket-pair-colorizer-2.colors": ["#FF9999", "#BB77DD", "#22BBBB"],
@@ -52,6 +54,7 @@ Download this extension and add the following settings to your `settings.json` f
 | ![](https://via.placeholder.com/10/232323?text=+) `#232323` |
 | ![](https://via.placeholder.com/10/303030?text=+) `#303030` |
 | ![](https://via.placeholder.com/10/BBBBBB?text=+) `#BBBBBB` |
+| ![](https://via.placeholder.com/10/99BBFF?text=+) `#99BBFF` |
 | ![](https://via.placeholder.com/10/FFBB99?text=+) `#FFBB99` |
 | ![](https://via.placeholder.com/10/FF9999?text=+) `#FF9999` |
 | ![](https://via.placeholder.com/10/EE5577?text=+) `#EE5577` |
@@ -61,6 +64,5 @@ Download this extension and add the following settings to your `settings.json` f
 | ![](https://via.placeholder.com/10/CC9900?text=+) `#CC9900` |
 | ![](https://via.placeholder.com/10/F43300?text=+) `#F43300` |
 | ![](https://via.placeholder.com/10/2255EE?text=+) `#2255EE` |
-
 
 [MIT](LICENSE) © [Rodey Seijkens](https://github.com/rodeyseijkens)
