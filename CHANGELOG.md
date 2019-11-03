@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.1.0] - 2019-11-03
+
+### Changed
+
+- Object/JSON property names are now different color from variables
+- Dimmed the focus border color
+
 ## [2.0.0] - 2019-09-07
 
 ### Changed

@@ -2,7 +2,7 @@
   "$schema": "vscode://schemas/color-theme",
   "type": "dark",
   "colors": {
-    "focusBorder": "#EE55776E",
+    "focusBorder": "#EE55773A",
     "foreground": "#BBBBBB",
     "widget.shadow": "#111111E6",
     "selection.background": "#BBBBBB6E",
@@ -455,7 +455,7 @@
       "name": "Object/JSON property names",
       "scope": ["support.type.property-name", "meta.object-literal.key"],
       "settings": {
-        "foreground": "#EE5577"
+        "foreground": "#FFBB99"
       }
     },
     {
