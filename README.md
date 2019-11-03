@@ -2,7 +2,7 @@
     Yedor Theme
 </h1>
 
-<img src="https://i.imgur.com/floVJEs.png" alt="Preview">
+<img src="https://i.imgur.com/6id1Fm6.png" alt="Preview">
 
 ## Installation
 
@@ -36,7 +36,7 @@ Download this extension and add the following settings to your `settings.json` f
 
 ### Bracket Pair Colorizer 2
 
-<img src="https://i.imgur.com/0BvcNo0.png" alt="Bracket Pair Colorizer 2 preview">
+<img src="https://i.imgur.com/ZSS4iIz.png" alt="Bracket Pair Colorizer 2 preview">
 
 Settings:
 
