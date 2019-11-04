@@ -455,7 +455,7 @@
       "name": "Object/JSON property names",
       "scope": ["support.type.property-name", "meta.object-literal.key"],
       "settings": {
-        "foreground": "#FFBB99"
+        "foreground": "#FF9999"
       }
     },
     {
